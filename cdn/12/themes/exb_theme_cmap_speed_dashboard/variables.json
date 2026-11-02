@@ -1,0 +1,283 @@
+{
+	"darkTheme": false,
+	"colors": {
+		"white": "#fff",
+		"black": "#000",
+		"transparent": "transparent",
+		"primary": "#1E478E",
+		"secondary": "#6DAE4F",
+		"light": "#f0f0f0",
+		"dark": "#050505",
+		"info": "#089bdc",
+		"success": "#09cf74",
+		"warning": "#ffea1d",
+		"danger": "#e1001b",
+		"palette": {
+			"primary": {
+				"100": "#008FD5",
+				"200": "#0583C9",
+				"300": "#0A77BD",
+				"400": "#0F6BB2",
+				"500": "#145FA6",
+				"600": "#19539A",
+				"700": "#1E478E",
+				"800": "#134284",
+				"900": "#083C7A"
+			},
+			"secondary": {
+				"100": "#A7CE95",
+				"200": "#99C684",
+				"300": "#8ABE72",
+				"400": "#7CB661",
+				"500": "#6DAE4F",
+				"600": "#629D47",
+				"700": "#578B3F",
+				"800": "#4C7A37",
+				"900": "#41682F"
+			},
+			"light": {
+				"100": "#f0f0f0",
+				"200": "#e3e3e3",
+				"300": "#d5d5d5",
+				"400": "#c5c5c5",
+				"500": "#b6b6b6",
+				"600": "#a8a8a8",
+				"700": "#989898",
+				"800": "#8b8b8b",
+				"900": "#828282"
+			},
+			"dark": {
+				"100": "#767676",
+				"200": "#6a6a6a",
+				"300": "#5e5e5e",
+				"400": "#525252",
+				"500": "#444444",
+				"600": "#363636",
+				"700": "#282828",
+				"800": "#181818",
+				"900": "#050505"
+			},
+			"info": {
+				"100": "#e5f7ff",
+				"200": "#9fe2ff",
+				"300": "#60ceff",
+				"400": "#21bbff",
+				"500": "#089bdc",
+				"600": "#0077ac",
+				"700": "#005a82",
+				"800": "#003b56",
+				"900": "#002231"
+			},
+			"success": {
+				"100": "#ebfff6",
+				"200": "#acffd9",
+				"300": "#56f8ad",
+				"400": "#16ed8a",
+				"500": "#09cf74",
+				"600": "#03b161",
+				"700": "#00904e",
+				"800": "#006838",
+				"900": "#004022"
+			},
+			"warning": {
+				"100": "#fffdeb",
+				"200": "#fff9c3",
+				"300": "#fff592",
+				"400": "#fff05f",
+				"500": "#ffea1d",
+				"600": "#eed800",
+				"700": "#d4c000",
+				"800": "#b5a400",
+				"900": "#938500"
+			},
+			"danger": {
+				"100": "#ffd2dc",
+				"200": "#ffc5cd",
+				"300": "#ffbbbe",
+				"400": "#ffb0ac",
+				"500": "#ffa598",
+				"600": "#ff9980",
+				"700": "#ff8d63",
+				"800": "#ff7f39",
+				"900": "#ff7a05"
+			}
+		}
+	},
+	"typography": {
+		"fontFamilyBase": "Whitney Book",
+		"fontSizeRoot": "100%",
+		"fontSizeBase": "0.8125rem",
+		"sizes": {
+			"display1": "1.875rem",
+			"display2": "1.5rem",
+			"display3": "1.25rem",
+			"display4": "1.125rem",
+			"display5": "1rem",
+			"display6": "0.875rem",
+			"body1": "0.875rem",
+			"body2": "0.8125rem",
+			"caption1": "0.75rem",
+			"caption2": "0.625rem",
+			"default": "0.8125rem",
+			"sm": "0.75rem",
+			"lg": "1rem"
+		},
+		"weights": {
+			"extraLight": "100",
+			"light": "300",
+			"medium": "400",
+			"bold": "500",
+			"extraBold": "700"
+		},
+		"lineHeights": {
+			"medium": 1.5,
+			"sm": 1.3,
+			"lg": 1.7
+		},
+		"colors": {
+			"title": "#f0f0f0",
+			"normal": "#d5d5d5",
+			"caption": "#b6b6b6",
+			"disabled": "#444"
+		},
+		"variants": {
+			"display1": {
+				"fontFamily": "Avenir Next",
+				"fontWeight": "500",
+				"lineHeight": 1.5,
+				"color": "#f0f0f0",
+				"fontSize": "1.875rem"
+			},
+			"display2": {
+				"fontFamily": "Avenir Next",
+				"fontWeight": "500",
+				"lineHeight": 1.5,
+				"color": "#f0f0f0",
+				"fontSize": "1.5rem"
+			},
+			"display3": {
+				"fontFamily": "Avenir Next",
+				"fontWeight": "500",
+				"lineHeight": 1.5,
+				"color": "#f0f0f0",
+				"fontSize": "1.25rem"
+			},
+			"display4": {
+				"fontFamily": "Avenir Next",
+				"fontWeight": "500",
+				"lineHeight": 1.5,
+				"color": "#f0f0f0",
+				"fontSize": "1.125rem"
+			},
+			"display5": {
+				"fontFamily": "Avenir Next",
+				"fontWeight": "500",
+				"lineHeight": 1.5,
+				"color": "#f0f0f0",
+				"fontSize": "1rem"
+			},
+			"display6": {
+				"fontFamily": "Avenir Next",
+				"fontWeight": "500",
+				"lineHeight": 1.5,
+				"color": "#f0f0f0",
+				"fontSize": "0.875rem"
+			},
+			"body1": {
+				"fontFamily": "Avenir Next",
+				"fontWeight": "400",
+				"lineHeight": 1.5,
+				"color": "#d5d5d5",
+				"fontSize": "0.875rem"
+			},
+			"body2": {
+				"fontFamily": "Avenir Next",
+				"fontWeight": "400",
+				"lineHeight": 1.5,
+				"color": "#d5d5d5",
+				"fontSize": "0.8125rem"
+			},
+			"caption1": {
+				"fontFamily": "Avenir Next",
+				"fontWeight": "400",
+				"lineHeight": 1.5,
+				"color": "#b6b6b6",
+				"fontSize": "0.75rem"
+			},
+			"caption2": {
+				"fontFamily": "Avenir Next",
+				"fontWeight": "400",
+				"lineHeight": 1.5,
+				"color": "#b6b6b6",
+				"fontSize": "0.625rem"
+			}
+		}
+	},
+	"sizes": {
+		"0": 0,
+		"1": "0.25rem",
+		"2": "0.5rem",
+		"3": "0.75rem",
+		"4": "1rem",
+		"5": "1.25rem"
+	},
+	"border": {
+		"color": "#d5d5d5",
+		"width": "1px"
+	},
+	"borderRadiuses": {
+		"none": "0",
+		"sm": "0",
+		"default": "0.125rem",
+		"lg": "0.25rem"
+	},
+	"boxShadows": {
+		"none": "none",
+		"sm": "0 0 6px 0 rgba(0,0,0,0.15)",
+		"default": "0 0 10px 1px rgba(0,0,0,0.2)",
+		"lg": "0 0 20px 2px rgba(0,0,0,0.2)"
+	},
+	"surfaces": {
+		"1": {
+			"bg": "#fff",
+			"border": {
+				"width": "1px",
+				"color": "#c5c5c5"
+			},
+			"shadow": "none"
+		},
+		"2": {
+			"bg": "#fff",
+			"border": {
+				"width": "1px",
+				"color": "#d5d5d5"
+			},
+			"shadow": "0 0 10px 1px rgba(0,0,0,0.2)"
+		}
+	},
+	"body": {
+		"bg": "#f0f0f0",
+		"color": "#050505",
+		"fontFamily": "Avenir Next",
+		"fontWeight": "400",
+		"fontSize": "0.875rem",
+		"fontStyle": "unset",
+		"lineHeight": 1.5
+	},
+	"header": {
+		"bg": "#004ca3",
+		"color": "#f0f0f0"
+	},
+	"footer": {
+		"bg": "#f0f0f0",
+		"color": "#050505"
+	},
+	"link": {
+		"color": "#076fe5",
+		"decoration": "none",
+		"hover": {
+			"color": "#005eca",
+			"decoration": "underline"
+		}
+	}
+}
